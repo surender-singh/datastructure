@@ -1,4 +1,2 @@
 datastructure
 =============
-
-Random code repo
